@@ -19,6 +19,6 @@ public:
 	{
 		// implementasi
 		cout << "pesan dari joko" << endl;
-	}
+	} 
 };
 
